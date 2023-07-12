@@ -1,12 +1,12 @@
 aPackageInfo = [
-	:name = "The LibDepWin_Allegro5271 Package",
-	:description = "Our LibDepWin_Allegro5271 package using the Ring programming language",
-	:folder = "libdepwin_allegro5271",
+	:name = "The LibDepWin_Allegro528 Package",
+	:description = "Our LibDepWin_Allegro528 package using the Ring programming language",
+	:folder = "libdepwin_allegro528",
 	:developer = "Mahmoud Fayed",
 	:email = "msfclipper@yahoo.com",
 	:license = "MIT License",
 	:version = "1.0.0",
-	:ringversion = "1.13",
+	:ringversion = "1.18",
 	:versions = 	[
 		[
 			:version = "1.0.0",
@@ -27,7 +27,7 @@ aPackageInfo = [
 		"uninstall.ring"
 	],
 	:ringfolderfiles = 	[
-		"extensions/libdepwin/Allegro5.2.7.1.zip"
+		"extensions/libdepwin/Allegro5.2.8.zip"
 	],
 	:windowsfiles = 	[
 

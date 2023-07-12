@@ -1,7 +1,7 @@
-# LibDepWin_Allegro5271
+# LibDepWin_Allegro528
 
-LibDepWin_Allegro5271 package for the Ring programming language
+LibDepWin_Allegro528 package for the Ring programming language
 
 ## Install
 
-	ringpm install libdepwin_allegro5271
+	ringpm install libdepwin_allegro528

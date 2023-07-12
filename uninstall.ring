@@ -1,8 +1,8 @@
 func main
-	? "Removing Allegro5.2.7.1"
+	? "Removing Allegro5.2.8"
 	cDir = CurrentDir()
 	chdir(exefolder()+"../extensions/libdepwin")
-	OSDeleteFolder("Allegro5.2.7.1")
+	OSDeleteFolder("Allegro5.2.8")
 	chdir(cDir)
 
 func OSDeleteFolder cFolder 
